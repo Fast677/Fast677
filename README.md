@@ -1,4 +1,3 @@
-```markdown
 ## ¡Hola, soy Fast677! 👋
 
 ![Visitas al Perfil](https://komarev.com/ghpvc/?username=Fast677&color=blue)
