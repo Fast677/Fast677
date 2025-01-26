@@ -16,7 +16,7 @@ Soy un desarrollador apasionado con amor por la programación y la resolución d
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Fast677](https://github-readme-stats.vercel.app/api?username=Fast677&show_icons=true&theme=radical)
-
+```
 ## Lenguajes Principales
 
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Fast677&layout=compact&theme=radical)
@@ -25,7 +25,7 @@ Soy un desarrollador apasionado con amor por la programación y la resolución d
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
-- [Project 1](https://github.com/Fast677/Alphapp): Alphapp.
+- [Alphapp](https://github.com/Fast677/): Alphapp es una plataforma con dos dominios principales que están bien definidos, con una estructura de código modular y una gestión organizada de repositorios, todo esto enfocado en la claridad y escalabilidad del proyecto.
 - [Project 2](https://github.com/Fast677/project-2): Breve descripción del proyecto 2.
 - [Project 3](https://github.com/Fast677/project-3): Breve descripción del proyecto 3.
 
