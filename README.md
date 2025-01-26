@@ -16,7 +16,7 @@ Soy un desarrollador apasionado con amor por la programación y la resolución d
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Fast677](https://github-readme-stats.vercel.app/api?username=Fast677&show_icons=true&theme=radical)
-```
+
 ## Lenguajes Principales
 
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Fast677&layout=compact&theme=radical)
