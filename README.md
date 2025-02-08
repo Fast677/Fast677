@@ -25,7 +25,7 @@ Soy un desarrollador apasionado con amor por la programación y la resolución d
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
-- [Alphapp](https://github.com/Fast677/):Alphapp es una plataforma para desarrolladores que proporciona herramientas y recursos para facilitar el desarrollo, la escalabilidad y el mantenimiento de proyectos de software.
+- [Alphapp]([https://github.com/Fast677/](https://github.com/Fast677/Alphapp)):Alphapp es una plataforma para desarrolladores que proporciona herramientas y recursos para facilitar el desarrollo, la escalabilidad y el mantenimiento de proyectos de software.
 - [Project 2](https://github.com/Fast677/project-2): Breve descripción del proyecto 2.
 - [Project 3](https://github.com/Fast677/project-3): Breve descripción del proyecto 3.
 
