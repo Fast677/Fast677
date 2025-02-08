@@ -36,5 +36,3 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 - [Blog](https://tu-blog.com)
 
 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres conectar!
-```
-
